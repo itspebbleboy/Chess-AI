@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\itspebbleboy\Desktop\C++\chessEmpty\build\CMakeFiles\33bf538dd5bc41d9d07beb515ebc6eb1\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\itspebbleboy\Desktop\C++\chessEmpty\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\itspebbleboy\Desktop\C++\chessEmpty\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0367B5C-7481-35B0-A8FB-E8A12025C166}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

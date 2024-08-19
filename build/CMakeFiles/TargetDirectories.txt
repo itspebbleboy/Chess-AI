@@ -1,0 +1,9 @@
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/Experimental.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/Nightly.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/Continuous.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/gameboard.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/PACKAGE.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/itspebbleboy/Desktop/C++/chessEmpty/build/CMakeFiles/ZERO_CHECK.dir
